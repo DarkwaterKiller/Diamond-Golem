@@ -1,0 +1,2 @@
+#This just prints out a neat, stylized message to the console, that notifies players when the data pack has been fully loaded
+tellraw @a ["",{"text":"Loaded data pack "},{"text":"[Diamond Golem]","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Prepare for Battle! A new boss approaches, the Diamond Golem!","color":"yellow"}}}]
